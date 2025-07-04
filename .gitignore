@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+# real-time-data-lakehouse
+/real-time-data-lakehouse/src/services/minio/minio_data/*
+/real-time-data-lakehouse/src/services/trino/etc
+/real-time-data-lakehouse/related-links.yml
